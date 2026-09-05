@@ -5,7 +5,7 @@
 // ==========================================
 
 // Mets ton token Telegram ici
-$BOT_TOKEN = 'TON_TOKEN_TELEGRAM_ICI';
+$BOT_TOKEN = '8510850405:AAH4jmZxCEiTkxibRy49KWW1-dBlP1xdQpI';
 
 // URL de TON API
 $API_URL = 'https://nexus.0-0-0.click/';
